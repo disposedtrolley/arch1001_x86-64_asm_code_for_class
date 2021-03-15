@@ -3,7 +3,7 @@
 // the MPL was not distributed with this file, You can 
 // obtain one at https://mozilla.org/MPL/2.0/.
 
-void main()
+unsigned int main()
 {
     unsigned int a, b, c;
     a = 0x5;
