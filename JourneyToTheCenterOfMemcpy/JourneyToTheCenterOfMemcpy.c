@@ -4,6 +4,7 @@
 // obtain one at https://mozilla.org/MPL/2.0/.
 
 #include <stdio.h>
+#include <string.h>
 
 #pragma pack(1)
 typedef struct mystruct{
